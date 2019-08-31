@@ -1,5 +1,5 @@
 .mensagem {
-    width: 50%;
+    width: 60%;
 }
 .navbar img {
     width: 10%;
@@ -16,7 +16,7 @@ footer {
 
 @media screen and (min-width: 729px) {
     .mensagem {
-        width: 60%;
+        width: 90%;
     }
     .navbar img {
         width: 2%;

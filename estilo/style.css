@@ -1,22 +1,32 @@
+/*
+    MENU NAVEGAÇÃO
+*/
 .mensagem {
     width: 60%;
 }
 .navbar img {
     width: 10%;
 }
-
 .contato {
     max-width: 80%; padding: .5em;
 }
 
+/*
+    SLIDES
+*/
+.slides{
+    width: 100%;
+}
+
+/*
+    RODAPÉ
+*/
 footer {
     text-align: center;
     padding-top: 10px; 
 }
 
-IMG{
-    Width:70%;
-}
+
 
 @media screen and (min-width: 729px) {
     .mensagem {

@@ -1,7 +1,7 @@
-navbar .mensagem {
-    width: 60%;
+.navbar .mensagem {
+    width: 90%;
 }
-navbar img {
+.navbar img {
     width: 10%;
 }
 
@@ -12,4 +12,17 @@ navbar img {
 footer {
     text-align: center;
     padding-top: 10px; 
+}
+
+@media screen and (min-width: 729px) {
+    .navbar .mensagem {
+        width: 60%;
+    }
+    .navbar img {
+        width: 2%;
+    }
+
+    .contato {
+        max-width: 80%; padding: .5em;
+    }
 }

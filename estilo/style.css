@@ -1,5 +1,12 @@
-.mensagem {
-    width: 50%;
+navbar .mensagem {
+    width: 60%;
+}
+navbar img {
+    width: 10%;
+}
+
+.contato {
+    max-width: 80%; padding: .5em;
 }
 
 footer {
